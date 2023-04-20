@@ -15,7 +15,7 @@ const theme = createTheme();
 export default function App() {
   return (
     <ThemeProvider theme={theme} >
-      <Box>
+      <Box >
         <Header />
         <Box>
           <Graph />
