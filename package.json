@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://bigcubecat.github.io/kakapo_db",
+  "homepage": "https://bigcubecat.github.io",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
